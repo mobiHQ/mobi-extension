@@ -11,5 +11,10 @@
   		<artifactId>jena</artifactId>
   		<version>2.6.2</version>
   	</dependency>
+  	<dependency>
+		<groupId>nsuml</groupId>
+		<artifactId>nsuml</artifactId>
+		<version>0.4.20</version>
+	</dependency>
   </dependencies>
 </project>
